@@ -60,7 +60,7 @@ Inside your shell with Hadoop
 
 Running as Java Application:
 
-```java -jar target/MapReduce-WordCount-example-0.1-SNAPSHOT-jar-with-dependencies.jar SOME-Text-Fiel.txt  output``` 
+```java -jar target/MapReduce-WordCount-example-0.1-SNAPSHOT-jar-with-dependencies.jar Book-Tiny.txt  output1 output2``` 
 
 Or has hadoop application
 
